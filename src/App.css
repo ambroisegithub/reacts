@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.bnt1{
+  background-color: black;
+  color: white;
+  padding: 10px 10px;
+  font-size: 20px;
+  width: 30%;
+}
+.name{
+  color: blue;
+  font-weight: 900;
+  font-family: 'Courier New', Courier, monospace;
+}
